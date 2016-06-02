@@ -1,4 +1,7 @@
 # Nephoria
+!!! This project has moved to: https://github.com/eucalyptus/nephoria
+===
+
 Cloud Utilties and Automated Test Framework for Eucalyptus
 =======
 Nephoria (previously known as nephoria)
